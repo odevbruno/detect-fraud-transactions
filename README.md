@@ -21,8 +21,8 @@ Este projeto é um **detector de fraudes simples** desenvolvido como parte dos m
 ## 🔧 Como Usar
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/fraud-detector.git
-cd fraud-detector
+git clone https://github.com/odevbruno/detect-fraud-transactions.git
+cd detect-fraud-transactions
 ```
 
 ### 2️⃣ Instalar as dependências
